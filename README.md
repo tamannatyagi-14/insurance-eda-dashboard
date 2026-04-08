@@ -88,11 +88,14 @@ insurance-eda-dashboard/
 - Source: insurance.csv
 
 
+🌐 **Live Demo:** 
+https://insurance-eda-dashboard.streamlit.app
+
 ---
 
 ## 👤 Author
 
-Made by **Tamanna Tyagi** · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+Made by **Tamanna Tyagi** · [LinkedIn]www.linkedin.com/in/tamanna-tyagi-1409200527t  [GitHub]https://github.com/tamannatyagi-14
 
 ---
 
